@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf24f78a-e854-4cef-a11f-479b81a27a22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tgustafson.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/templates/shop/product/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/product/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop/templates/shop/product/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop/templates/shop/product/list.html" afterDir="false" />
-    </list>
+    <list default="true" id="bf24f78a-e854-4cef-a11f-479b81a27a22" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571872641724</updated>
       <workItem from="1571872703365" duration="6030000" />
-      <workItem from="1571952248438" duration="4681000" />
+      <workItem from="1571952248438" duration="4984000" />
     </task>
     <servers />
   </component>
