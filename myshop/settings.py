@@ -25,8 +25,9 @@ SECRET_KEY = '7mdfsd8lj()vdhhc@ay+z3u97k74f($=@zp(m9#+*vx@9i6bre'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
+CART_SESSION_ID = 'cart'
 
 # Application definition
 
