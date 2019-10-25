@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf24f78a-e854-4cef-a11f-479b81a27a22" name="Default Changelist" comment="" />
+    <list default="true" id="bf24f78a-e854-4cef-a11f-479b81a27a22" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cart/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/templates/cart/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cart/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/cart/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/urls.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +46,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\djangoApps2\myshop\cart" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -88,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1571872641724</updated>
       <workItem from="1571872703365" duration="6030000" />
-      <workItem from="1571952248438" duration="4984000" />
+      <workItem from="1571952248438" duration="6398000" />
     </task>
     <servers />
   </component>
